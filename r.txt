@@ -1,2 +1,6 @@
 code update by dev1
-changes done after cloning 
+changes done after cloning
+
+now cjanges made after switch to calc-divide branch 
+
+
